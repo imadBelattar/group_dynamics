@@ -1,0 +1,297 @@
+[{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d89c"
+  },
+  "title": "Introduction to Decision Making in Groups",
+  "completed": true
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d89d"
+  },
+  "title": "Decision-Making Models (e.g., Rational Decision-Making Model, Bounded Rationality)",
+  "completed": true
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d89e"
+  },
+  "title": "Factors Influencing Group Decision Making",
+  "completed": true
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d89f"
+  },
+  "title": "Group Decision-Making Techniques",
+  "completed": true
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8a0"
+  },
+  "title": "Consensus Building and Decision Making",
+  "completed": true
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8a1"
+  },
+  "title": "Handling Decision-Making Challenges",
+  "completed": true
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8a2"
+  },
+  "title": "Case Studies and Practical Applications",
+  "completed": true
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8a3"
+  },
+  "title": "Basics of Group Communication",
+  "completed": true
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8a4"
+  },
+  "title": "Verbal and Nonverbal Communication",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8a5"
+  },
+  "title": "Active Listening in Group Settings",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8a6"
+  },
+  "title": "Overcoming Communication Barriers",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8a7"
+  },
+  "title": "Constructive Feedback and Critique",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8a8"
+  },
+  "title": "Technology and Communication Tools for Groups",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8a9"
+  },
+  "title": "Developing a Communication Plan for Groups",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8aa"
+  },
+  "title": "Understanding Leadership in Group Dynamics",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8ab"
+  },
+  "title": "Leadership Styles and Their Impact",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8ac"
+  },
+  "title": "Emotional Intelligence in Leadership",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8ad"
+  },
+  "title": "Decision Making and Leadership",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8ae"
+  },
+  "title": "Motivation and Team Building",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8af"
+  },
+  "title": "Conflict Resolution for Leaders",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8b0"
+  },
+  "title": "Leading Diverse Groups",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8b1"
+  },
+  "title": "Understanding Conflict in Groups",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8b2"
+  },
+  "title": "Types of Group Conflicts",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8b3"
+  },
+  "title": "Conflict Resolution Models",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8b4"
+  },
+  "title": "Negotiation Skills for Groups",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8b5"
+  },
+  "title": "Mediation and Facilitation Techniques",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8b6"
+  },
+  "title": "Building a Positive Conflict Resolution Culture",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8b7"
+  },
+  "title": "Case Studies in Conflict Management",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8b8"
+  },
+  "id": 29,
+  "title": "Introduction to Group Norms",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8b9"
+  },
+  "title": "The Role of Norms in Group Cohesion",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8ba"
+  },
+  "title": "Types of Group Norms",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8bb"
+  },
+  "title": "Establishing Norms in New Groups",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8bc"
+  },
+  "title": "Norms and Group Productivity",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8bd"
+  },
+  "title": "Addressing Norm Violations",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8be"
+  },
+  "title": "Group Norms and Organizational Culture",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8bf"
+  },
+  "title": "The Significance of Roles in Groups",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8c0"
+  },
+  "title": "Different Types of Group Roles",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8c1"
+  },
+  "title": "Role Allocation and Assignment",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8c2"
+  },
+  "title": "Adapting Roles in Changing Group Dynamics",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8c3"
+  },
+  "title": "Role Conflict and Resolution",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8c4"
+  },
+  "title": "Leadership and Follower Roles",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8c5"
+  },
+  "title": "Evaluation and Feedback on Role Performance",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8c6"
+  },
+  "id": 43,
+  "title": "Understanding Group Size Dynamics",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8c7"
+  },
+  "title": "Small Group Dynamics",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8c8"
+  },
+  "title": "Medium-Sized Group Dynamics",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8c9"
+  },
+  "title": "Large Group Dynamics",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8ca"
+  },
+  "title": "Teamwork in Different Group Sizes",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8cb"
+  },
+  "title": "Scaling Strategies for Group Activities",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "657f27ef6e0a685ebfd2d8cc"
+  },
+  "title": "Group Size and Decision-Making Processes",
+  "completed": false
+}]

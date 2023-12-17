@@ -1,0 +1,211 @@
+[{
+  "_id": {
+    "$oid": "657f27746e0a685ebfd2d893"
+  },
+  "title": "Decision Making",
+  "progress": 100,
+  "description": "This focuses on the process of making effective decisions within a group setting. Participants will explore various decision-making models and strategies to enhance their ability to make informed and collaborative choices.",
+  "topics": [
+    {
+      "$oid": "657f27ef6e0a685ebfd2d89c"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d89d"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d89e"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d89f"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8a0"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8a1"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8a2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "657f27746e0a685ebfd2d894"
+  },
+  "title": "Communication",
+  "progress": 30,
+  "description": "This explores the fundamental aspects of communication within a group context. Participants will learn effective communication skills, active listening, and strategies for fostering open and transparent communication in group settings.",
+  "topics": [
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8a3"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8a4"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8a5"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8a6"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8a7"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8a8"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8a9"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "657f27746e0a685ebfd2d895"
+  },
+  "title": "Leadership",
+  "progress": 20,
+  "description": "This focuses on developing leadership skills within a group. Participants will explore different leadership styles, communication strategies, and methods for motivating and guiding a team towards common goals.",
+  "topics": [
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8aa"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8ab"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8ac"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8ad"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8ae"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8af"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8b0"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "657f27746e0a685ebfd2d896"
+  },
+  "title": "Conflict Management",
+  "progress": 10,
+  "description": "This addresses the identification and resolution of conflicts within group settings. Participants will learn conflict resolution strategies, negotiation skills, and how to turn conflicts into opportunities for growth.",
+  "topics": [
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8b1"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8b2"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8b3"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8b4"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8b5"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8b6"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8b7"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "657f27746e0a685ebfd2d897"
+  },
+  "title": "Norms",
+  "progress": 50,
+  "description": "This explores the establishment and maintenance of norms within a group. Participants will learn about the importance of shared expectations, rules, and norms in shaping group behavior.",
+  "topics": [
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8b8"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8b9"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8ba"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8bb"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8bc"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8bd"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8be"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "657f27746e0a685ebfd2d898"
+  },
+  "title": "Roles",
+  "progress": 80,
+  "description": "This focuses on the definition and distribution of roles within a group. Participants will explore the importance of assigning and fulfilling roles to ensure effective collaboration and task completion.",
+  "topics": [
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8bf"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8c0"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8c1"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8c2"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8c3"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8c4"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8c5"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "657f27746e0a685ebfd2d899"
+  },
+  "title": "Size",
+  "progress": 20,
+  "description": "This examines the impact of group size on dynamics and functioning. Participants will explore the advantages and challenges associated with different group sizes and strategies for optimizing group performance.",
+  "topics": [
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8c6"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8c7"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8c8"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8c9"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8ca"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8cb"
+    },
+    {
+      "$oid": "657f27ef6e0a685ebfd2d8cc"
+    }
+  ]
+}]
